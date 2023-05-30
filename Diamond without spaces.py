@@ -6,7 +6,6 @@ spaces2 = 1
 o=0
 a = '*'
 s = ' '
-g=0
 for x in range(height + 1):
 
     if x < cp:
@@ -27,16 +26,3 @@ for x in range(height + 1):
 
         #print(f'{a * (x * 2 - 1)} ', end='\n')
         spaces2 += 1
-    g += 1
-
-
-
-
-
-
-
-
-
-
-
-
