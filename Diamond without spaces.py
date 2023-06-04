@@ -26,3 +26,15 @@ for x in range(height + 1):
 
         #print(f'{a * (x * 2 - 1)} ', end='\n')
         spaces2 += 1
+
+
+
+
+
+
+
+
+
+
+
+
